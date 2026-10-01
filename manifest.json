@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Image Text Scanner",
+  "version": "1.0",
+  "description": "Extract text from images using OCR",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
